@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://himansh:pigasoos@login-page.iqzft.mongodb.net/login-page?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
